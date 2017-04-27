@@ -2,7 +2,7 @@ import sys
 import unittest
 
 from invitation import *
-rons_message= "The family of Ron Weasley proudly invite you to celebrate their graduation from Hogwarts on Sunday the May of 18th. Festivities will be held at The Burrow. See you then!"
+rons_message= "The family of Ron Weasley proudly invite you to celebrate their graduation from Hogwarts on Sunday the 18 of May. Festivities will be held at The Burrow. See you then!"
 class TestInvitation(unittest.TestCase):
 
     def test_percy_replacer(self):
